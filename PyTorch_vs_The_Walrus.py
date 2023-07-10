@@ -12,7 +12,7 @@ Two computation methods are compared:
 
 -   Using the function photon_number_moment() from The Walrus
     https://the-walrus.readthedocs.io
-    imlementing a method evaluating the Hafnian function as described in
+    implementing a method evaluating the Hafnian function as described in
     Cardin, Quesada (2022):
     'Photon-number moments and cumulants of Gaussian states'
     https://doi.org/10.48550/arXiv.2212.06067
