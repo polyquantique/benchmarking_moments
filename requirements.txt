@@ -1,0 +1,4 @@
+torch==2.5.0
+thewalrus==0.22.0
+jupyter
+matplotlib
